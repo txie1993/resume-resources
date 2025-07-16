@@ -58,3 +58,5 @@ Personal projects and open source contributions should go here. If you made a pr
 - [The Muse](https://www.themuse.com/search/)
 - [newgrad.ai](https://newgrad.ai/) - an AI curated job posting list for junior devs
 - [Easy Application](https://github.com/j-delaney/easy-application) - 7 years outdated at this point so not sure  how much of this applies. This is a list of companies that let you upload your resume to easily apply without filling out too many forms.
+- [HNHiring](https://hnhiring.com/) - an aggregator based on hiring managers posting on HackerNews.
+- [HiringCafe](https://hiring.cafe/)
