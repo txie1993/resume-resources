@@ -52,6 +52,7 @@ Personal projects and open source contributions should go here. If you made a pr
 - [Article: Ace the Coding Interview, Every Time](https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time/)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - a study plan to get hired at Google. The person ended up at Amazon.
 - [I'll sleep when I'm dead](https://docs.google.com/document/d/1VNoEUzBtyCw0fDw0X_bvuhmCwz1qhNjETPJc5VRZqm8/edit?tab=t.0#heading=h.qgirm0ok3hec) - Interview algorithm resources. Please sleep more than this person.
+- [Reddit Roadmap to becoming a Web Dev](https://www.reddit.com/r/codingbootcamp/comments/ylvtiu/one_of_the_best_roadmaps_ive_seen_for_becoming_a/) - Useful insight on job hunting and prepping.
 
 # Job Boards
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) -  a job posting list of companies that don't make you do high level leetcode questions for an interview.
