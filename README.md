@@ -61,6 +61,7 @@ Personal projects and open source contributions should go here. If you made a pr
 - [Easy Application](https://github.com/j-delaney/easy-application) - 7 years outdated at this point so not sure  how much of this applies. This is a list of companies that let you upload your resume to easily apply without filling out too many forms.
 - [HNHiring](https://hnhiring.com/) - an aggregator based on hiring managers posting on HackerNews.
 - [HiringCafe](https://hiring.cafe/)
+- [Parentaly - a spreadsheet regarding parental leave](https://docs.google.com/spreadsheets/u/0/d/1Oe7NfOqNMooHcA5RMRo4PUsKeRyOhc8BDgYRcPiSxRw/htmlview#gid=1836100166)
 
 # Negotiating Salary
 I find [levels.fyi](https://www.levels.fyi/) to be the best resource over Glassdoor and Blind to get a view of what salaries to expect. It gives you a reasonable salary range to target during negotiations that is from a reliable source.
